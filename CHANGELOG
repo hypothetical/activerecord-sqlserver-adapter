@@ -1,3 +1,6 @@
+* v4.1.SUE *
+* Backport this change for SUE:  Provide class config for `use_output_inserted` (default true) for insert SQL. Fixed #381.
+
 * 4.0.0 *
 * Dropped support for ruby 1.8.7
 * Removed deadlock victim retry in favor of Isolation Level
